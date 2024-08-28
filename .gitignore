@@ -1,0 +1,10 @@
+# Windows specific patterns
+# Ignore the .gitignore file itself
+!.gitignore
+
+# Ignore the specified directories and their contents
+/voc-key.pem
+/codes/musina_webcrawling/
+/documents/etc/
+/env/
+/musinsa_crawling_dataset/
